@@ -4,3 +4,5 @@ This code is used for counting the key words in PDF. First, it will transform th
 You can also use jieba lib to count it. But it is based on a keyword dict. Sometimes, it may fail to detect your key words.
 
 There is a big folder contained many pdf files, but I couldn't upload. The file directory is fold\北京青年 or fold\廣州日報 and so on.
+
+Finally, all the information will be written in the CSV.
